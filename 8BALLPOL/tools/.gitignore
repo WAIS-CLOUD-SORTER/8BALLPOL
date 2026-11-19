@@ -1,0 +1,15 @@
+# Java/Kotlin descompilados
+analysis/source/
+
+# Recursos descodificados
+analysis/res/
+
+# Assets extraídos
+analysis/assets/
+
+# Bundle de Flutter
+analysis/flutter_assets/
+
+# Reportes de análisis
+analysis/*.md5
+analysis/fingerprint.txt

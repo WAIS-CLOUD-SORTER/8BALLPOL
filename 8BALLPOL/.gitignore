@@ -1,0 +1,15 @@
+# Entorno local de instalación de herramientas (JDK, jadx)
+.work/
+
+# Descompilación y resultados de análisis
+analysis/source/
+analysis/res/
+analysis/assets/
+analysis/flutter_assets/
+analysis/output/
+
+# Ficheros temporales y reportes generados
+*.tmp
+*.log
+analysis/fingerprint.txt
+*.md5
